@@ -19,7 +19,7 @@
     "url": "https://github.com/mserge/how-to-npm/issues"
   },
   "homepage": "https://github.com/mserge/how-to-npm#readme",
-  "description": "",
+  "description": "This is test module based on https://nodeschool.io/ru/#how-to-npm workshop",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
