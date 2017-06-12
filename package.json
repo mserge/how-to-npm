@@ -1,0 +1,23 @@
+{
+  "name": "@mserge/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serge Markov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mserge/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "nodeworkshop"
+  ],
+  "bugs": {
+    "url": "https://github.com/mserge/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/mserge/how-to-npm#readme",
+  "description": ""
+}
